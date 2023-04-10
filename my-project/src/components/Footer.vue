@@ -3,15 +3,15 @@ import { RouterLink, RouterView } from "vue-router";
 
 </script>
 <template>
-  <div class="bg-gray-900">
-    <div class="px-4 pt-16 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8">
+  <div class="bg-[#221F1F]">
+    <div class="px-4 pt-8 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8">
       <div class="grid row-gap-10 mb-8 lg:grid-cols-6">
      
    
       </div>
       <div class="flex flex-col justify-between pt-5 pb-10 border-t border-gray-800 sm:flex-row">
         <p class="text-sm text-gray-500">
-          © Copyright 2020 ANIMIX Inc. All rights reserved.
+          © Copyright 2023 SULKHAN GALANG Inc. All rights reserved.
         </p>
         <div class="flex items-center mt-4 space-x-4 sm:mt-0">
           <RouterLink to="/">
